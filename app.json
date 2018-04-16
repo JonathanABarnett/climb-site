@@ -1,0 +1,7 @@
+{
+  "name": "climb-site",
+  "description": "Connecting Heroku and GitHub",
+  "repository": "https://github.com/JonathanABarnett/climb-site.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["jb", "github", "static", "heroku"]
+}

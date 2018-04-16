@@ -54,6 +54,22 @@ h5.modal-title {
     width: 100%;
 }
 
-.fa {
-    margin: 10px;
+.ispace {
+    padding: 10px;
+}
+
+.fa-google-plus-square {
+    color: indianred
+}
+
+.fa-facebook-square {
+    color: lightblue
+}
+
+.fa-twitter-square {
+    color:darkcyan
+}
+
+.socialWrapper {
+    margin: auto;
 }
